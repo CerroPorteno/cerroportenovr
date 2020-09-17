@@ -1,8 +1,9 @@
 {
- "background_color": "#FFFFFF",
- "name": "Club Cerro Porteño",
  "theme_color": "#FFFFFF",
  "description": "Paseo Digital de las instalaciones. Una demostración de Innovatio.",
+ "background_color": "#FFFFFF",
+ "start_url": "index.htm",
+ "name": "Club Cerro Porteño",
  "icons": [
   {
    "type": "image/png",
@@ -40,6 +41,5 @@
    "sizes": "64x64"
   }
  ],
- "display": "fullscreen",
- "start_url": "index.htm"
+ "display": "fullscreen"
 }
